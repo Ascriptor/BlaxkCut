@@ -1,0 +1,1697 @@
+@media screen and (max-width: 2560px) and (min-width: 2280px) {
+
+    /* --- navbar --- */
+
+    .navbar {
+        padding-top: 3.5rem;
+        padding-bottom: 3.5rem;
+    }
+
+    .navbar-brand {
+        font-size: 3.25rem;
+        padding-bottom: 2.3125rem;
+    }
+
+    .navbar-brand img {
+        width: 19.5rem;
+    }
+
+    .navbar-nav {
+        gap: 4.5rem;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 35px;
+    }
+
+    .dropdown-item {
+        font-size: 25px;
+    }
+
+    /* --- carousel --- */
+
+    .carousel-caption h5 {
+        font-size: 10.25rem;
+    }
+
+    .carousel-caption p {
+        line-height: 50px;
+        font-size: 32px;
+    }
+
+    .carousel-caption .btn {
+        padding: 30px;
+        font-size: 30px;
+    }
+
+    .carousel-caption {
+        bottom: 29.25rem;
+    }
+
+    .marque {
+        margin-top: 255px;
+    }
+
+    .marque .m-child .s1 {
+        font-size: 25.5rem;
+    }
+
+    .marque .m-child .s2 {
+        font-size: 25.5rem;
+    }
+
+    /* --- First Section --- */
+
+    section.first p {
+        font-size: 50px;
+    }
+
+    .first .container {
+        max-width: 75%;
+    }
+
+    /* --- second section --- */
+
+    .second .row1 h2 {
+        font-size: 7.5rem;
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+        letter-spacing: 8px;
+        font-family: 'Bebas Neue';
+    }
+
+    .second .row1 hr {
+        height: 2px;
+        width: 20.5rem;
+    }
+
+    .second .row1 hr::before {
+        width: 20px;
+        height: 20px;
+        top: 158px;
+        left: 43%;
+    }
+
+    .second .row1 hr::after {
+        width: 20px;
+        height: 20px;
+        top: 158px;
+        left: 56%;
+    }
+
+    /* --- Third Section --- */
+
+    .row3 img {
+        width: 58rem;
+    }
+
+    .row3 .col-md-6 {
+        width: 75%;
+    }
+
+    .col-sm-12 h2 {
+        font-size: 86px;
+        letter-spacing: 15px;
+    }
+
+    .col-sm-12 p {
+        font-size: 29px;
+        margin-bottom: 10px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: 40px;
+        margin-top: 35px;
+    }
+
+    /* Forth Section */
+
+    .row2 .col-md-3 {
+        width: 28rem;
+        height: 55vh;
+    }
+
+    .Forth .row1 h2 {
+        font-size: 85px;
+        letter-spacing: 10px;
+    }
+
+    .Forth .row1 hr {
+        width: 25rem;
+    }
+
+    .Forth .row1 hr::before {
+        width: 20px;
+        height: 20px;
+        top: 115px;
+        left: 34%;
+    }
+
+    .Forth .row1 hr::after {
+        width: 20px;
+        height: 20px;
+        top: 116px;
+        left: 64%;
+    }
+
+    .Forth .row2 .col-md-12 {
+        justify-content: center;
+    }
+
+    .box1,
+    .box2 {
+        width: 200px;
+        height: 200px;
+    }
+
+    .col-md-3 .box2 {
+        bottom: 170px;
+    }
+
+    .row2 .col-md-3 span {
+        font-size: 28px;
+        letter-spacing: 7px;
+    }
+
+    .col-md-12 .btn {
+        margin-top: 0px;
+        letter-spacing: 6px;
+        font-size: 35px;
+    }
+
+    /* Fifth Section */
+
+    .Fifth .col-md-5 {
+        width: 62.666667%;
+    }
+
+    .Fifth .col-md-12 {
+        justify-content: center;
+        gap: 110px;
+    }
+
+    /* Sixth Section */
+
+    .area .child2 .inner .inner-head h2 {
+        letter-spacing: 10px;
+        font-size: 85px;
+    }
+
+    .inner-data p {
+        color: white;
+        font-size: 32px;
+    }
+
+    .inner-data h2 {
+        letter-spacing: 6px;
+        font-size: 75px;
+    }
+
+    .area .child2 .inner .inner-head hr::before {
+        width: 20px;
+        height: 20px;
+        top: 132px;
+        left: 226px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        width: 20px;
+        height: 20px;
+        top: 132px;
+        left: 576px;
+    }
+
+    /* Sixth Section */
+
+    .inner-col .last span {
+        font-size: 100px;
+        letter-spacing: 17px;
+    }
+
+    /* Footer */
+
+    .footer-logo img {
+        height: 75px;
+    }
+
+    .footer-copyright {
+        font-size: 25px;
+    }
+
+    .footer-links img {
+        width: 50px;
+    }
+
+    /* Back To Top Button */
+    #backToTop img {
+        width: 65px;
+    }
+
+
+}
+
+@media screen and (max-width: 2280px) and (min-width: 1920px) {
+
+    /* --- nav-bar --- */
+
+    .navbar-brand img {
+        width: 15rem;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    .dropdown-menu {
+        font-size: 20px;
+    }
+
+    /* --- carousel --- */
+
+    .carousel-caption h5 {
+        font-size: 8.25rem;
+    }
+
+    .carousel-caption p {
+        line-height: 50px;
+        font-size: 30px;
+    }
+
+    .carousel-caption .btn {
+        padding: 30px;
+        font-size: 26px;
+    }
+
+    .carousel-caption {
+        bottom: 23.25rem;
+    }
+
+    .marque .m-child .s1 {
+        font-size: 275px;
+    }
+
+    .marque .m-child .s2 {
+        font-size: 275px;
+    }
+
+    .marque {
+        margin-top: 340px;
+    }
+
+    /* --- First Section --- */
+
+    section.first p {
+        font-size: 40px;
+        margin-left: -133px;
+        margin-right: -192px;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 75px;
+    }
+
+    .second .row1 hr {
+        width: 195px;
+    }
+
+    .second .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 108px;
+        left: 45%;
+    }
+
+    .second .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 108px;
+        left: 54%;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 55px;
+    }
+
+    .Forth .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 83px;
+        left: 42%;
+    }
+
+    .Forth .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 83px;
+        left: 57%;
+    }
+
+    .col-md-12 .btn {
+        font-size: 28px;
+    }
+
+    .row2 .col-md-3 span {
+        font-size: 20px;
+    }
+
+    /* --- Fifth Section --- */
+
+    .Fifth .col-md-5 {
+        width: 62.666667%;
+    }
+
+    .Fifth .col-md-12 {
+        justify-content: center;
+        gap: 110px;
+    }
+
+    .area .child2 .inner .inner-head h2 {
+        font-size: 75px;
+    }
+
+    .inner-data p {
+        font-size: 30px;
+    }
+
+    .inner-data h2 {
+        font-size: 55px;
+    }
+
+    .area .child2 .inner .inner-head hr::before {
+        width: 14px;
+        height: 14px;
+        top: 122px;
+        left: 236px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        width: 14px;
+        height: 14px;
+        top: 122px;
+        left: 35rem;
+    }
+
+    /* --- Footer --- */
+
+    .footer-logo img {
+        height: 65px;
+    }
+
+    .footer-copyright {
+        font-size: 23px;
+    }
+
+    footer .footer-links img {
+        width: 45px;
+    }
+
+}
+
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+
+    /* --- navbar --- */
+
+    .navbar-brand img {
+        width: 14rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 22px;
+    }
+
+    .marque .m-child .s1 {
+        font-size: 275px;
+    }
+
+    .marque .m-child .s2 {
+        font-size: 275px;
+    }
+
+    .marque {
+        margin-top: 275px;
+    }
+
+    /* --- Carousel --- */
+
+    .carousel-caption h5 {
+        font-size: 7.25rem;
+    }
+
+    .carousel-caption p {
+        font-size: 30px;
+    }
+
+    .carousel-caption {
+        bottom: 25.25rem;
+    }
+
+    .carousel-caption .btn {
+        padding: 16px;
+        font-size: 30px;
+    }
+
+    .carousel-caption .btn {
+        letter-spacing: 5px;
+        font-size: 22px;
+    }
+
+    .carousel-caption {
+        bottom: 18.25rem;
+    }
+
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 75px;
+    }
+
+    .second .row1 hr {
+        width: 200px;
+    }
+
+    .second .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 107px;
+        left: 55%;
+    }
+
+    .second .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 107px;
+        left: 44%;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 50px;
+    }
+
+    .Forth .row1 hr {
+        width: 250px;
+    }
+
+    .Forth .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 78px;
+        left: 39%;
+    }
+
+    .Forth .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 78px;
+        left: 59%;
+    }
+
+    .col-md-12 .btn {
+        font-size: 25px;
+    }
+
+    /* --- Fifth Section --- */
+
+    .area .child2 .inner .inner-head h2 {
+        font-size: 75px;
+    }
+
+    .inner-data p {
+        font-size: 22px;
+    }
+
+    .inner-data h2 {
+        font-size: 40px;
+    }
+
+    .area .child2 .inner .inner-head hr {
+        width: 52%;
+    }
+
+    .area .child2 .inner .inner-head hr::before {
+        width: 14px;
+        height: 14px;
+        top: 122px;
+        left: 119px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        width: 14px;
+        height: 14px;
+        top: 122px;
+        left: 410px;
+    }
+
+    /* --- Footer --- */
+
+    .footer-copyright {
+        font-size: 19px;
+    }
+
+    .footer-logo img {
+        height: 65px;
+    }
+
+    footer .footer-links img {
+        width: 40px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 1600px) and (min-width: 1400px) {
+
+    /* --- navbar --- */
+
+    .navbar-brand img {
+        width: 14rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    /* --- Carousel --- */
+
+    .carousel-caption h5 {
+        font-size: 5.25rem;
+    }
+
+    .col-sm-12 p {
+        font-size: 20px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: 25px;
+    }
+
+    .carousel-caption {
+        bottom: 20.25rem;
+    }
+
+    .marque .m-child .s2 {
+        font-size: 270px;
+    }
+
+    .marque .m-child .s1 {
+        font-size: 270px;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 75px;
+    }
+
+    .second .row1 hr {
+        width: 188px;
+    }
+
+    .second .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 107px;
+        left: 43%;
+    }
+
+    .second .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 107px;
+        left: 55%;
+    }
+
+    /* --- Forth Section  --- */
+
+    .Forth .row1 h2 {
+        font-size: 50px;
+    }
+
+    .Forth .row1 hr {
+        width: 225px;
+    }
+
+    .Forth .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        position: absolute;
+        top: 77px;
+        left: 40%;
+    }
+
+    .Forth .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 77px;
+        left: 58%;
+    }
+
+    .col-md-12 .btn {
+        font-size: 25px;
+    }
+
+    /* --- Fifth Section --- */
+
+    .area .child2 .inner .inner-head h2 {
+        font-size: 75px;
+    }
+
+    .inner-data p {
+        font-size: 23px;
+    }
+
+    .inner-data h2 {
+        font-size: 42px;
+    }
+
+    .area .child2 .inner .inner-head hr {
+        width: 45%;
+    }
+
+    .area .child2 .inner .inner-head hr::before {
+        width: 14px;
+        height: 14px;
+        top: 123px;
+        left: 136px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        width: 14px;
+        height: 14px;
+        top: 123px;
+        left: 384px;
+    }
+
+    /* --- Footer --- */
+
+    .footer-logo img {
+        height: 65px;
+    }
+
+    .footer-copyright {
+        font-size: 20px;
+    }
+
+    footer .footer-links img {
+        width: 45px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1199px) {
+
+    /* --- navbar --- */
+
+    .navbar-brand img {
+        width: 14rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    /* --- carousel --- */
+
+    /* --- Carousel --- */
+
+    .carousel-caption h5 {
+        font-size: 5.25rem;
+    }
+
+    .col-sm-12 p {
+        font-size: 20px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: 25px;
+    }
+
+    .carousel-caption {
+        bottom: 20.25rem;
+    }
+
+    .marque .m-child .s2 {
+        font-size: 270px;
+    }
+
+    .marque .m-child .s1 {
+        font-size: 270px;
+    }
+
+    .carousel-caption {
+        bottom: 13.25rem;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 75px;
+    }
+
+    .second .row1 hr {
+        width: 195px;
+    }
+
+    .second .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 108px;
+        left: 42%;
+    }
+
+    .second .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 108px;
+        left: 57%;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 55px;
+    }
+
+    .Forth .row1 hr {
+        width: 265px;
+    }
+
+    .Forth .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 84px;
+        left: 37%;
+    }
+
+    .Forth .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 84px;
+        left: 61%;
+    }
+
+    .col-md-12 .btn {
+        font-size: 25px;
+    }
+
+    /* --- Fifth Section --- */
+
+    .area .child2 .inner .inner-head h2 {
+        font-size: 65px;
+    }
+
+    .inner-data p {
+        font-size: 23px;
+    }
+
+    .inner-data h2 {
+        font-size: 38px;
+    }
+
+    .area .child2 .inner .inner-head hr {
+        width: 53%;
+    }
+
+    .area .child2 .inner .inner-head hr::before {
+        width: 14px;
+        height: 14px;
+        top: 112px;
+        left: 105px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        width: 14px;
+        height: 14px;
+        top: 112px;
+        left: 352px;
+    }
+
+    /* --- Footer --- */
+
+    .footer-logo img {
+        height: 65px;
+    }
+
+    .footer-copyright {
+        font-size: 20px;
+    }
+
+    footer .footer-links img {
+        width: 42px;
+    }
+
+}
+
+@media screen and (max-width: 1199px) and (min-width: 1023px) {
+
+    /* --- navbar --- */
+
+    .navbar-brand img {
+        width: 14rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    /* --- Carousel --- */
+
+    .carousel-caption {
+        bottom: 6.25rem;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 60px;
+    }
+
+    .second .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 90px;
+        left: 58%;
+    }
+
+    .second .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 90px;
+        left: 40%;
+    }
+
+    /* --- Third Section --- */
+
+    .Third .col-sm-12 h2 {
+        font-size: 38px;
+    }
+
+    .Third .col-sm-12 p {
+        font-size: 14px;
+    }
+
+    .Third .row3 img {
+        width: 28rem;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 50px;
+    }
+
+    .Forth .row1 hr {
+        width: 260px;
+    }
+
+    .Forth .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 77px;
+        left: 36%;
+    }
+
+    .Forth .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 77px;
+        left: 62%;
+    }
+
+    .col-md-12 .btn {
+        font-size: 25px;
+    }
+
+    .box1,
+    .box2 {
+        width: 100px;
+        height: 100px;
+    }
+
+    .col-md-3 .box2 {
+        bottom: 40px;
+        left: 10px;
+    }
+
+    .col-md-3 .box1 {
+        right: 10px;
+        top: 10px;
+    }
+
+    /* --- Fifth Section --- */
+
+    .area .child2 .inner .inner-head h2 {
+        font-size: 55px;
+    }
+
+    .inner-data p {
+        font-size: 21px;
+    }
+
+    .inner-data h2 {
+        font-size: 29px;
+    }
+
+    .area .child2 .inner .inner-head hr {
+        width: 55%;
+    }
+
+    .area .child2 .inner .inner-head hr::before {
+        width: 14px;
+        height: 14px;
+        top: 98px;
+        left: 82px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        width: 14px;
+        height: 14px;
+        top: 98px;
+        left: 300px;
+    }
+
+    /* --- Footer --- */
+
+    .footer-logo img {
+        height: 50px;
+    }
+
+    .footer-copyright {
+        font-size: 17px;
+    }
+
+    footer .footer-links img {
+        width: 30px;
+    }
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 900px) {
+
+    /* --- navbar --- */
+
+    .navbar-nav {
+        background-color: black;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-brand {
+        justify-content: space-between;
+        align-items: flex-start;
+        align-content: stretch;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    .dropdown-toggle::after {
+        color: #ba7445;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #ba7445;
+    }
+
+    .navbar-toggler-icon {
+        color: white;
+    }
+
+    .dropdown-menu.show {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        font-size: 20px;
+    }
+
+    /* --- Carousel --- */
+
+    .carousel-caption {
+        bottom: 2.25rem;
+    }
+
+    .carousel-caption h5 {
+        font-size: 3.25rem;
+        letter-spacing: 8px;
+    }
+
+    .carousel-caption p {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 55px;
+    }
+
+    .second .row1 hr {
+        width: 200px;
+    }
+
+    .second .row1 hr::before {
+        width: 14px;
+        height: 14px;
+        top: 83px;
+        left: 40%;
+    }
+
+    .second .row1 hr::after {
+        width: 14px;
+        height: 14px;
+        top: 83px;
+        left: 59%;
+    }
+    
+
+    /* --- Third Section --- */
+
+    .Third .row3 {
+        gap: 5rem;
+    }
+
+    .col-sm-12 h2 {
+        font-size: 40px;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 45px;
+    }
+
+    .Forth .row1 hr {
+        width: 240px;
+    }
+
+    
+
+    .box1,
+    .box2 {
+        width: 80px;
+        height: 80px;
+    }
+
+    /* --- Fifth Section --- */
+
+    .inner-data h2 {
+        font-size: 19px;
+    }
+
+
+}
+
+@media screen and (max-width: 900px) and (min-width: 768px) {
+
+    /* --- navbar --- */
+
+    .navbar-nav {
+        background-color: black;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-brand {
+        justify-content: space-between;
+        align-items: flex-start;
+        align-content: stretch;
+    }
+
+    .navbar-brand img {
+        width: 12rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    .dropdown-toggle::after {
+        color: #ba7445;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #ba7445;
+        width: 4rem;
+        height: 3rem;
+    }
+
+    .navbar-toggler-icon {
+        color: white;
+    }
+
+    .dropdown-menu.show {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        font-size: 20px;
+    }
+
+    /* --- carousel --- */
+
+    .carousel-caption h5 {
+        font-size: 4.25rem;
+    }
+
+    .carousel-caption p {
+        margin-left: 5rem;
+        margin-right: 5rem;
+        font-size: 18px;
+    }
+
+    .col-sm-12 p {
+        font-size: 18px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: large;
+    }
+
+    .carousel-caption {
+        bottom: 10.25rem;
+    }
+
+    .bnr-video {
+        width: 100% !important;
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    .marque {
+        margin-top: 262px;
+    }
+
+    /* --- First Section --- */
+
+    section.first p {
+        font-size: 27px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 50px;
+    }
+
+    /* --- Third Section --- */
+
+    .row3 img {
+        width: 44rem;
+    }
+
+    .Third .row3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Third .row3 .col-md-6 {
+        width: 45%;
+    }
+
+    .col-sm-12 h2 {
+        font-size: 75px;
+    }
+
+    .col-sm-12 p {
+        font-size: 20px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: xx-large;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 55px;
+    }
+
+    .Forth .row2 .col-md-12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .Forth .col-md-3 {
+        width: 65%;
+    }
+
+    .box1,
+    .box2 {
+        width: 150px;
+        height: 150px;
+    }
+
+    .row2 .col-md-3 span {
+        font-size: 25px;
+    }
+
+    .col-md-12 .btn {
+        font-size: xx-large;
+    }
+
+    /* --- Fifth Section --- */
+
+    .Fifth .col-md-12 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .col-md-5 {
+        width: 70.666667%;
+    }
+
+    /* --- Footer --- */
+
+    footer .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    footer .col-md-4 {
+        width: 60.333333%;
+    }
+
+    .footer-logo img {
+        height: 55px;
+    }
+
+    .footer-copyright {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) and (min-width: 400px) {
+
+    /* --- navbar --- */
+
+    .navbar-nav {
+        background-color: black;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-brand {
+        justify-content: space-between;
+        align-items: flex-start;
+        align-content: stretch;
+    }
+
+    .navbar-brand img {
+        width: 12rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    .dropdown-toggle::after {
+        color: #ba7445;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #ba7445;
+        width: 4rem;
+        height: 3rem;
+    }
+
+    .navbar-toggler-icon {
+        color: white;
+    }
+
+    .dropdown-menu.show {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        font-size: 20px;
+    }
+
+    /* --- carousel --- */
+
+    .carousel-caption.d-none.d-md-block {
+        display: block !important;
+        visibility: visible !important;
+    }
+
+    .carousel-caption h5 {
+        font-size: 3rem;
+    }
+
+    .carousel-caption p {
+        margin-left: 0rem;
+        margin-right: 0rem;
+        font-size: 17px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: larger;
+    }
+
+    .carousel-caption {
+        bottom: 13.25rem;
+    }
+
+    .bnr-video {
+        width: 100% !important;
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    .marque {
+        margin-top: 262px;
+    }
+
+    /* --- First Section --- */
+
+    section.first p {
+        font-size: 27px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 50px;
+    }
+
+    /* --- Third Section --- */
+
+    .row3 img {
+        width: 25rem;
+    }
+
+    .Third .row3 {
+        display: flex;
+        flex-direction: column;
+        gap: 45px;
+    }
+
+    .Third .row3 .col-md-6 {
+        width: 100%;
+    }
+
+    .col-sm-12 h2 {
+        font-size: 50px;
+    }
+
+    .col-sm-12 p {
+        font-size: 20px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: xx-large;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 55px;
+    }
+
+    .Forth .row2 .col-md-12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .Forth .col-md-3 {
+        width: 65%;
+    }
+
+    .box1,
+    .box2 {
+        width: 150px;
+        height: 150px;
+    }
+
+    .row2 .col-md-3 span {
+        font-size: 25px;
+    }
+
+    .col-md-12 .btn {
+        font-size: xx-large;
+    }
+
+    /* --- Fifth Section --- */
+
+    .Fifth .col-md-12 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .col-md-5 {
+        width: 70.666667%;
+    }
+
+    .inner-data h2 {
+        font-size: 18px;
+    }
+
+    /* --- Footer --- */
+
+    footer .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    footer .col-md-4 {
+        width: 99.333333%;
+    }
+
+    .footer-logo img {
+        height: 55px;
+    }
+
+    .footer-copyright {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 400px) and (min-width: 320px) {
+
+    /* --- navbar --- */
+
+    .navbar-nav {
+        background-color: black;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-brand {
+        justify-content: space-between;
+        align-items: flex-start;
+        align-content: stretch;
+    }
+
+    .navbar-brand img {
+        width: 12rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    .dropdown-toggle::after {
+        color: #ba7445;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #ba7445;
+        width: 4rem;
+        height: 3rem;
+    }
+
+    .navbar-toggler-icon {
+        color: white;
+    }
+
+    .dropdown-menu.show {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        font-size: 20px;
+    }
+
+    /* --- carousel --- */
+
+    .carousel-caption.d-none.d-md-block {
+        display: block !important;
+        visibility: visible !important;
+    }
+
+    .carousel-caption h5 {
+        font-size: 2.25rem;
+    }
+
+    .carousel-caption p {
+        margin-left: 0rem;
+        margin-right: 0rem;
+        font-size: 16px;
+    }
+
+    .col-sm-12 .btn {
+        font-size: large;
+    }
+
+    .carousel-caption {
+        bottom: 10.25rem;
+    }
+
+    .bnr-video {
+        width: 100% !important;
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    .marque {
+        margin-top: 262px;
+    }
+
+    /* --- Back To Top Button --- */
+
+    #backToTop {
+        display: none;
+    }
+
+    /* --- First Section --- */
+
+    section.first p {
+        font-size: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* --- Second Section --- */
+
+    .second .row1 h2 {
+        font-size: 50px;
+    }
+
+    /* --- Third Section --- */
+
+    .row3 img {
+        width: 20rem;
+    }
+
+    .Third .row3 {
+        display: flex;
+        flex-direction: column;
+        gap: 45px;
+    }
+
+    .Third .row3 .col-md-6 {
+        width: 100%;
+    }
+
+    .col-sm-12 h2 {
+        font-size: 35px;
+    }
+
+    .col-sm-12 p {
+        font-size: 16px;
+    }
+
+    .col-md-12 .btn {
+        font-size: x-large;
+    }
+
+    /* --- Forth Section --- */
+
+    .Forth .row1 h2 {
+        font-size: 50px;
+    }
+
+    .Forth .row2 .col-md-12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .Forth .col-md-3 {
+        width: 65%;
+    }
+
+    .box1,
+    .box2 {
+        width: 150px;
+        height: 150px;
+    }
+
+    .row2 .col-md-3 span {
+        font-size: 25px;
+    }
+
+    .col-md-12 .btn {
+        font-size: x-large;
+    }
+
+    /* --- Fifth Section --- */
+
+    .Fifth .col-md-12 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .col-md-5 {
+        width: 70.666667%;
+    }
+
+    .inner-data h2 {
+        font-size: 18px;
+    }
+
+    .area .child2 .inner .inner-head hr::after {
+        left: 165px;
+    }
+
+    /* --- Footer --- */
+
+    footer .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    footer .col-md-4 {
+        width: 99.333333%;
+    }
+
+    .footer-logo img {
+        height: 55px;
+    }
+
+    .footer-copyright {
+        font-size: 20px;
+    }
+}
